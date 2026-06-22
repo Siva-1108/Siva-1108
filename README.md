@@ -3,12 +3,20 @@
 ## I’m looking for help with securing an entry-level Data Analyst role or other related positions such as Business Analyst, Data Scientist Intern, AI/ML Engineer or Analytics Associate. As a fresher, I am eager to apply my skills in Python, SQL, data analysis, and machine learning while gaining hands-on industry experience.
 
 ## I'm currently learning data visualization and BI tools
-##Fun fact:     1. I love cars
-                2. Fav anime Naruto..
+## Tools & Skills
+  1. Power BI
+  2. MySQL
+  3. MongoDB
+  4. Python
+  5. Data Analysis
+##Fun fact:
+   1. I love cars
+   2. Fav anime Naruto..
                 
-##Hobbies:        1. photography
-                  2. Cars
-                  3. Anime
+##Hobbies:       
+   1. photography
+   2. Cars
+   3. Anime
 
 <!--
 **Siva-1108/Siva-1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
