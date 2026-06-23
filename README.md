@@ -9,6 +9,7 @@
   3. MongoDB
   4. Python
   5. Data Analysis
+  6. ML/DL Algorithms
   
 ##Fun fact:
    1. I love cars
