@@ -17,7 +17,7 @@
                 
 ##Hobbies:       
    1. photography
-   2. Cars
+   2. Passionate about Cars
    3. Anime
 
 <!--
