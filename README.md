@@ -10,6 +10,7 @@
   4. Python
   5. Data Analysis
   6. ML/DL Algorithms
+  7. Excel
   
 ##Fun fact:
    1. I love cars
@@ -18,7 +19,7 @@
 ##Hobbies:       
    1. photography
    2. Passionate about Cars
-   3. Anime
+   3. Watching Anime
 
 <!--
 **Siva-1108/Siva-1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
