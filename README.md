@@ -17,7 +17,7 @@
    2. Fav anime Naruto..
                 
 ##Hobbies:       
-   1. photography
+   1. Capturing movements
    2. Passionate about Cars
    3. Watching Anime
 
