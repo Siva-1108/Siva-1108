@@ -12,15 +12,14 @@
   6. ML/DL Algorithms
   7. Excel
   8. Data Wrangling
-  
-##Fun fact:
-   1. I love cars
-   2. Fav anime Naruto..
-                
+
+##Funfact:
+    Naruto is my fav Anime..
+                   
 ##Hobbies:       
    1. Capturing movements
    2. Passionate about Cars
-   3. Watching Anime
+ 
 
 <!--
 **Siva-1108/Siva-1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
