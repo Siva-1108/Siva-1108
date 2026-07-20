@@ -15,7 +15,7 @@
 
 ##Funfact:
     Naruto is my fav Anime..
-    BMW is my first Love :) 
+    BMW is my first Love.. :) 
                    
 ##Hobbies:       
    1. Capturing movements
