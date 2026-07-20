@@ -11,7 +11,7 @@
   5. Data Analysis
   6. ML/DL Algorithms
   7. Excel
-  8. Data Wrangling.
+  8. Data Wrangling
 
 ##Funfact:
     Naruto is my fav Anime..
