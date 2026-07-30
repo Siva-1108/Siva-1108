@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Siva Kumar proficiencey in data analysis and python
+## I'm Siva Kumar Vasabattula proficiencey in data analysis and python
 ## I’m looking for help with securing an entry-level Data Analyst role or other related positions such as Business Analyst, Data Scientist Intern, AI/ML Engineer or Analytics Associate. As a fresher, I am eager to apply my skills in Python, SQL, data analysis, and machine learning while gaining hands-on industry experience.
 
 ## I'm currently learning data visualization and BI tools
